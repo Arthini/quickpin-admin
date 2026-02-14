@@ -18,10 +18,10 @@ Designed for large websites where searching for frequently edited pages slows do
 
 ## 📂 Folder Structure
 
-quickpin-admin/
-│
-├── quickpin-admin.php
-└── README.md
+quickpin-admin/<br>
+│<br>
+├── quickpin-admin.php<br>
+└── README.md<br>
 
 
 ---
